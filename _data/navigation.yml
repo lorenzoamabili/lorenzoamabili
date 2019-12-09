@@ -9,3 +9,7 @@ main:
     
   - title: "Projects"
     url: /projects/
+    
+  - title: "Medium Articles"
+    url: /medium/
+
