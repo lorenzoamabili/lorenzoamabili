@@ -1,12 +1,9 @@
 ---
-title: "Collaborative Visual Storytelling"
-collection: publications
-type: Short Paper
-thumb: /images/NM2018.png
-permalink: /publication/CollaborativeVS
-date: 2018-07-01
-venue: 'Narrative Matters 2018'
+title: "'Data-Driven Storytelling': A Short Review"
+collection: medium
+thumb: /images/story.jpeg
+permalink: /medium/dds-review
+date: 2019-12-01
+venue: ''Data-Driven Storytelling': A Short Review'
 ---
-![](https://lorenzoamabili.github.io/images/NM20182.png "NM2018")
-
-[<u>Download poster here</u>](http://lorenzoamabili.github.io/files/NM2018.pdf)
+![](https://lorenzoamabili.github.io/images/story.jpeg "NM2018")
