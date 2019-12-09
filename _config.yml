@@ -75,7 +75,7 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+  tracking_id            :
 
 
 # Site Author
@@ -112,6 +112,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  medium           : "https://medium.com/@lorenzoamabili"
 
 # Reading Files
 include:
@@ -174,6 +175,9 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
+  medium:
+    output: true
+    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
@@ -206,6 +210,15 @@ defaults:
   - scope:
       path: ""
       type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _medium
+  - scope:
+      path: ""
+      type: medium
     values:
       layout: single
       author_profile: true
