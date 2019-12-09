@@ -218,7 +218,6 @@ defaults:
   # _medium
   - scope:
       path: ""
-      type: medium
     values:
       layout: single
       author_profile: true
