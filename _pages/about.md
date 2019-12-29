@@ -22,7 +22,7 @@ Have a look at my [publications](https://lorenzoamabili.github.io/publications/)
 
 I also love sports, [travelling, photography](https://www.flickr.com/people/148349088@N06/), and [writing for Nightingale](https://medium.com/@lorenzoamabili)
 
-PS: Quotes are the best way to say much with just a little. [These are my favorite ones.] (https://lorenzoamabili.github.io/quotes/).
+PS: Quotes are the best way to say much with just a little. [These are my favorite ones.](https://lorenzoamabili.github.io/quotes/).
 
 [Resume](https://lorenzoamabili.github.io/files/CV.pdf)
 
