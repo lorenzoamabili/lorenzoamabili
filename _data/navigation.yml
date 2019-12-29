@@ -9,3 +9,6 @@ main:
     
   - title: "Projects"
     url: /projects/
+    
+  - title: "Quotes"
+    url: /quotes/
