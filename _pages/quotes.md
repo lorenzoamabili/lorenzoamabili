@@ -1,11 +1,8 @@
 ---
-permalink: /
-title: ""
-excerpt: "Quotes"
+layout: archive
+title: "Projects"
+permalink: /projects/
 author_profile: true
-redirect_from: 
-  - /quotes/
-  - /quotes.html
 ---
 
 This is a list of some of my favourite quotes.
