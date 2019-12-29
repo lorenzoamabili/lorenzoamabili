@@ -75,7 +75,7 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-  tracking_id            : UA-49896587-1
+  tracking_id            :
 
 
 # Site Author
@@ -180,6 +180,9 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
+  quotes:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -224,6 +227,14 @@ defaults:
   - scope:
       path: ""
       type: projects
+    values:
+      layout: single
+      author_profile: true
+      share: true
+  # _quotes
+  - scope:
+      path: ""
+      type: quotes
     values:
       layout: single
       author_profile: true
