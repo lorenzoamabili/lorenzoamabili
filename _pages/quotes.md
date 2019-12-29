@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-This is a list of some of my favourite quotes.
+<b>This is a list of some of my favourite quotes.</b>
 
 “The day the child realizes that all adults are imperfect, he becomes an adolescent; the day he forgives them, he becomes an adult; the day he forgives himself, he becomes wise.” 
 Alden Nowlan
