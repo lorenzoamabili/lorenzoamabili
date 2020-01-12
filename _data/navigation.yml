@@ -13,6 +13,8 @@ main:
   - title: "Projects"
     url: /projects/
     
+  - title: "CV"
+    url: https://lorenzoamabili.github.io/files/CV.pdf
     
  - title: ""
    children:
