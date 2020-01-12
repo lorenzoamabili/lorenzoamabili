@@ -183,6 +183,12 @@ collections:
   quotes:
     output: true
     permalink: /:collection/:path/
+  readings:
+    output: true
+    permalink: /:collection/:path/
+  flickr:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -235,6 +241,23 @@ defaults:
   - scope:
       path: ""
       type: quotes
+    values:
+      layout: single
+      author_profile: true
+      share: true
+     # _readings
+  - scope:
+      path: ""
+      type: readings
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+          # _flickr
+  - scope:
+      path: ""
+      type: flickr
     values:
       layout: single
       author_profile: true
