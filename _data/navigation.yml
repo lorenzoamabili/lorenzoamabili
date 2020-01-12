@@ -12,3 +12,9 @@ main:
     
   - title: "Quotes"
     url: /quotes/
+    
+  - title: "Readings"
+    url: /readings/
+    
+  - title: "Websites"
+    url: /websites/
