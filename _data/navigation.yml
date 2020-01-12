@@ -1,7 +1,7 @@
 # main links links
 main:
 
- - title: "Work"
+ - title: Work
    children:
    
   - title: "Publications"
@@ -14,9 +14,9 @@ main:
     url: /projects/
     
   - title: "CV"
-    url: https://lorenzoamabili.github.io/files/CV.pdf
+    url: /files/CV.pdf
     
- - title: "Leisure"
+ - title: Leisure
    children:
     
   - title: "Quotes"
