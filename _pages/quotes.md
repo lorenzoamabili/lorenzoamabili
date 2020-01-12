@@ -5,7 +5,7 @@ permalink: /quotes/
 author_profile: true
 ---
 
-<b>This is a list of some of my favourite quotes.</b>
+<b>Quotes are the best way to say much with just a little. These are my favorite ones.</b>
 
 “The day the child realizes that all adults are imperfect, he becomes an adolescent; the day he forgives them, he becomes an adult; the day he forgives himself, he becomes wise.” 
 <br />
