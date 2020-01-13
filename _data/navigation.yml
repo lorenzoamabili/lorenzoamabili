@@ -25,4 +25,5 @@ main:
   - title: "Readings"
     url: /readings/
     
-  - title: ["Flickr"](https://www.flickr.com/people/148349088@N06/)
+  - title: "Flickr"
+    url: /flickr/
