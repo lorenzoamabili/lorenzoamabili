@@ -1,14 +1,20 @@
 # main links links
 main:
+
   - title: "Publications"{: #tanuki-orange
     url: /publications/
+    
   - title: "Teaching"{: #tanuki-orange}
     url: /teaching/    
+    
   - title: "Projects"{: #tanuki-orange}
     url: /projects/
+    
   - title: "Quotes"{: #tanuki-orange}
     url: /quotes/
+    
   - title: "Readings"{: #tanuki-orange}
     url: /readings/
+    
   - title: "Flickr"{: #tanuki-orange}
     url: /flickr/
