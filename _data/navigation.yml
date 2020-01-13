@@ -9,12 +9,21 @@ main:
     
   - title: "Projects"
     url: /projects/
-    
-  - title: "Quotes"
-    url: /quotes/
+  
+  - title: " "
+    url: /
     
   - title: "Readings"
     url: /readings/
     
+  - title: "Paintings"
+    url: /paintings/
+  
+  - title: "Quotes"
+    url: /quotes/
+    
   - title: "Flickr"
     url: /flickr/
+    
+  - title: "Spotify"
+    url: /spotify/
