@@ -1,21 +1,17 @@
 # main links links
 main:
-  - title: Work
-    children:
-      - title: "Publications"
+      - title: "Publications"{: #tanuki-orange}
         url: /publications/
-      - title: "Teaching"
+      - title: "Teaching"{: #tanuki-orange}
         url: /teaching/    
-      - title: "Projects"
+      - title: "Projects"{: #tanuki-orange}
         url: /projects/
-      - title: "CV"
+      - title: "CV"{: #tanuki-orange}
         url: /files/CV.pdf
     
-  - title: Leisure
-    children:
-      - title: "Quotes"
+      - title: "Quotes"{: #tanuki-orange}
         url: /quotes/
-      - title: "Readings"
+      - title: "Readings"{: #tanuki-orange}
         url: /readings/
-      - title: "Flickr"
+      - title: "Flickr"{: #tanuki-orange}
         url: /flickr/
