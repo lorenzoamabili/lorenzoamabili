@@ -1,7 +1,7 @@
 # main links links
 main:
 
-  - title: "Publications"{: #tanuki-orange
+  - title: "Publications"{: #tanuki-orange}
     url: /publications/
     
   - title: "Teaching"{: #tanuki-orange}
