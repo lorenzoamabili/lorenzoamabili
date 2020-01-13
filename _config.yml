@@ -186,6 +186,9 @@ collections:
   readings:
     output: true
     permalink: /:collection/:path/
+  paintings:
+    output: true
+    permalink: /:collection/:path/
   flickr:
     output: true
     permalink: /:collection/:path/
@@ -262,6 +265,15 @@ defaults:
       layout: single
       author_profile: true
       share: true
+        # _paintings
+  - scope:
+      path: ""
+      type: paintings
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
 
 # Sass/SCSS
 sass:
