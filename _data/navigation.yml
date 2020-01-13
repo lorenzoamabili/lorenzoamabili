@@ -6,8 +6,6 @@ main:
     url: /teaching/    
   - title: "Projects"{: #tanuki-orange}
     url: /projects/
-  - title: "CV"{: #tanuki-orange}
-    url: /files/CV.pdf
   - title: "Quotes"{: #tanuki-orange}
     url: /quotes/
   - title: "Readings"{: #tanuki-orange}
