@@ -16,8 +16,8 @@ main:
   - title: "Readings"
     url: /readings/
     
-  - title: "Paintings"
-    url: /paintings/
+  - title: "Artworks"
+    url: /artworks/
   
   - title: "Quotes"
     url: /quotes/
