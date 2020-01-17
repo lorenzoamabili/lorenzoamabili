@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "Paintings"
-permalink: /paintings/
+title: "Artworks"
+permalink: /artworks/
 author_profile: true
 ---
 
 {% include base_path %}
 
-{% for post in site.paintings reversed %}
+{% for post in site.artworks reversed %}
   {% include archive-single.html %}
 {% endfor %}
