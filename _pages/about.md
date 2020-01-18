@@ -6,6 +6,10 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+output: 
+  html_document:
+    includes:
+       in_header: clicky.html
 ---
 
 Hi, I am PhD student in Computer Science working on [Visual Storytelling of Big Imaging Data](https://lorenzoamabili.github.io/projects/VSBID), in the [Scientific Visualization and Computer Graphics group](http://www.cs.rug.nl/svcg/Main/People) led by [Jos Roerdink](http://www.cs.rug.nl/svcg/People/JosRoerdink) at the University of Groningen.
