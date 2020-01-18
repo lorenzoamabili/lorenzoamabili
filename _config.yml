@@ -192,6 +192,9 @@ collections:
   flickr:
     output: true
     permalink: /:collection/:path/
+  blog:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -248,7 +251,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-     # _readings
+  # _readings
   - scope:
       path: ""
       type: readings
@@ -257,7 +260,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-          # _flickr
+  # _flickr
   - scope:
       path: ""
       type: flickr
@@ -265,10 +268,19 @@ defaults:
       layout: single
       author_profile: true
       share: true
-        # _artworks
+  # _artworks
   - scope:
       path: ""
       type: artworks
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _blog
+  - scope:
+      path: ""
+      type: blog
     values:
       layout: single
       author_profile: true
