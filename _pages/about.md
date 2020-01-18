@@ -24,7 +24,7 @@ Have a look at my [publications](https://lorenzoamabili.github.io/publications/)
 [![](https://lorenzoamabili.github.io/images/grouping2.png)](https://www.youtube.com/watch?v=H8ZBaRVyGFo)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![](https://lorenzoamabili.github.io/images/NM20182.png "NM2018")](https://lorenzoamabili.github.io/files/NM2018.pdf)
 
-I also love sports, [travelling, photography](https://www.flickr.com/people/148349088@N06/), [reading](https://lorenzoamabili.github.io/readings), [artworks](https://lorenzoamabili.github.io/artworks) and [writing](https://medium.com/@lorenzoamabili) for Nightingale.
+I also love sports, [travelling, photography](https://www.flickr.com/people/148349088@N06/), [reading](https://lorenzoamabili.github.io/readings), [writing](https://medium.com/@lorenzoamabili) for [Nightingale](https://medium.com/nightingale), and [making art](https://lorenzoamabili.github.io/artworks).
 
 
 [This](https://lorenzoamabili.github.io/files/CV.pdf) is my resume.
