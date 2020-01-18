@@ -25,8 +25,8 @@ main:
   - title: "Flickr"
     url: /flickr/
 
-  - title: "  |  "
+  - title: "   |   "
     url: /
     
-   - title: "Blog"
+  - title: "Blog"
     url: /blog/
