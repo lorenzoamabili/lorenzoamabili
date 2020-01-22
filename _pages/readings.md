@@ -7,7 +7,7 @@ author_profile: true
 
 <b> Reading is brain feeding. These are the books I have read recently. </b>
  
-<b><i> 2019 </i></b>
+<b>o 2019 </b>
 
 -<i> Envisioning Information</i>, by Edward Tufte
 <br />
@@ -24,7 +24,9 @@ author_profile: true
 -<i> Data-Driven Storytelling</i>, by  Nathalie Henry Riche, Christophe Hurter, Nicholas Diakopoulos, Sheelagh Carpendale
 <br />
 
+
 ___________________________________________________________________________________________________________________________
+
 
 
 -<i> Homo Deus</i>, by Yuval Noah Harari
