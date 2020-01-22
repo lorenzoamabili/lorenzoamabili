@@ -24,7 +24,8 @@ author_profile: true
 -<i> Data-Driven Storytelling</i>, by  Nathalie Henry Riche, Christophe Hurter, Nicholas Diakopoulos, Sheelagh Carpendale
 <br />
 
------------------------------------------------------------------------------
+___________________________________________________________________________________________________________________________
+
 
 -<i> Homo Deus</i>, by Yuval Noah Harari
 <br />
