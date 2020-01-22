@@ -7,28 +7,42 @@ author_profile: true
 
 <b> Reading is brain feeding. These are the books I have read recently. </b>
  
--<i> Homo Deus </i>, by Yuval Noah Harari
+<b><i> 2019 </i></b>
+
+-<i> Envisioning Information</i>, by Edward Tufte
 <br />
 
--<i> Sapiens </i>, by Yuval Noah Harari
+-<i> Visual Display of Quantitative Information</i>, by Edward Tufte
 <br />
 
--<i> The Basic Laws of Human Stupidity </i>, by Carlo M. Cipolla
+-<i> Experimental Design: From User Studies to Psychophysics</i>, by Douglas W. Cunningham and Christian Wallraven
 <br />
 
--<i> Envisioning Information </i>, by Edward Tufte
+-<i> Information Visualization: Perception for Design</i>, by Ware Colin
 <br />
 
--<i> Visual Display of Quantitative Information </i>, by Edward Tufte
+-<i> Data-Driven Storytelling</i>, by  Nathalie Henry Riche, Christophe Hurter, Nicholas Diakopoulos, Sheelagh Carpendale
 <br />
 
--<i> Thinking, Fast and Slow </i>, by Daniel Kahneman
+-----------------------------------------------------------------------------
+
+-<i> Homo Deus</i>, by Yuval Noah Harari
 <br />
 
--<i> Data-Driven Storytelling </i>, by  Nathalie Henry Riche, Christophe Hurter, Nicholas Diakopoulos, Sheelagh Carpendale
+-<i> Sapiens</i>, by Yuval Noah Harari
 <br />
 
--<i> Information Visualization: Perception for Design </i>, by Ware Colin
+-<i> Thinking, Fast and Slow</i>, by Daniel Kahneman
 <br />
 
--<i> Experimental Design: From User Studies to Psychophysics </i>, by Douglas W. Cunningham and Christian Wallraven
+-<i> The Basic Laws of Human Stupidity</i>, by Carlo M. Cipolla
+<br />
+
+-<i> L'Origine della Specie</i>, by Charles Darwin
+<br />
+
+-<i> Il Principe</i>, by Niccolò Machiavelli
+<br />
+
+-<i> Lolita</i>, by Vladimir Vladimirovič Nabokov
+<br />
