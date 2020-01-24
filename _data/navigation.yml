@@ -1,25 +1,25 @@
 # main links links
 main:
 
-  - title: "<b>Publications</b>"
+  - title: "<b><i>Publications</i></b>"
     url: /publications/
     
-  - title: "<b>Teaching</b>"
+  - title: "<b><i>Teaching</i></b>"
     url: /teaching/    
     
-  - title: "<b>Projects</b>"
+  - title: "<b><i>Projects</i></b>"
     url: /projects/
     
-  - title: "Readings"
+  - title: "<i>Readings</i>"
     url: /readings/
     
-  - title: "Artworks"
+  - title: "<i>Artworks</i>"
     url: /artworks/
   
-  - title: "Quotes"
+  - title: "<i>Quotes</i>"
     url: /quotes/
     
-  - title: "Flickr"
+  - title: "<i>Flickr</i>"
     url: /flickr/
     
   - title: "Blog"
