@@ -1,17 +1,14 @@
 # main links links
 main:
 
-  - title: "Publications"
+  - title: "<b>Publications</b>"
     url: /publications/
     
-  - title: "Teaching"
+  - title: "<b>Teaching</b>"
     url: /teaching/    
     
-  - title: "Projects"
+  - title: "<b>Projects</b>"
     url: /projects/
-  
-  - title: "  |  "
-    url: /
     
   - title: "Readings"
     url: /readings/
@@ -24,9 +21,6 @@ main:
     
   - title: "Flickr"
     url: /flickr/
-
-  - title: "   |   "
-    url: /
     
   - title: "Blog"
     url: /blog/
