@@ -7,6 +7,10 @@ author_profile: true
 
 <b>A quote is the best way to say much with just a little. These are my favorite ones.</b>
 
+"If you want to go fast, go alone, if you want to go far, go together".
+<br />
+<i>African proverb</i>
+
 “The day the child realizes that all adults are imperfect, he becomes an adolescent; the day he forgives them, he becomes an adult; the day he forgives himself, he becomes wise.” 
 <br />
 <i>Alden Nowlan</i>
@@ -24,8 +28,16 @@ author_profile: true
 <i>Pierre de Coubertin</i>
 
 "We need to change the way we feel — to learn how to feel proud instead of ashamed when we notice we might have been wrong about something, or to learn how to feel intrigued instead of defensive when we encounter some information that contradicts our beliefs."
+<br />
+<i>Anonymus</i>
 
 "It has been said that families who are closely attached may cut themselves off from the outside world. So it was with the Romanovs."
+<br />
+<i>Anonymus</i>
+
+"If you want to go fast, go alone, if you want to go far, go together."
+<br/>
+<i>African proverb</i>
 
 "Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better." 
 <br />
