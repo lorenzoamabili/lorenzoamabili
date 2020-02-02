@@ -28,6 +28,10 @@ author_profile: true
 <br />
 <i>Anonymus</i>
 
+"You can fool all the people some of the time and some of the people all the time, but you cannot fool all the people all the time."
+<br />
+<i>Abraham Lincoln</i>
+
 "It has been said that families who are closely attached may cut themselves off from the outside world. So it was with the Romanovs."
 <br />
 <i>Anonymus</i>
