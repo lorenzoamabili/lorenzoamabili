@@ -7,9 +7,6 @@ author_profile: true
 
 <b>A quote is the best way to say much with just a little. These are my favorite ones.</b>
 
-"If you want to go fast, go alone, if you want to go far, go together".
-<br />
-<i>African proverb</i>
 
 “The day the child realizes that all adults are imperfect, he becomes an adolescent; the day he forgives them, he becomes an adult; the day he forgives himself, he becomes wise.” 
 <br />
