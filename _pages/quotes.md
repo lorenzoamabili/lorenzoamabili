@@ -71,7 +71,8 @@ author_profile: true
 <br />
 <i>Anonymus</i>
 
-"Difficile non Ë sapere, ma saper far uso di quello che si sa."
+"It is not difficult to know a thing; what is difficult is to know how to use what you known."
+<br />
 <i>Han Fei Tzu</i>
 
 
