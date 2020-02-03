@@ -7,6 +7,29 @@ author_profile: true
 
 <b>A quote is the best way to say much with just a little. These are my favorite ones.</b>
 
+"Study the science of art. Study the art of science. Develop your senses, especially learn how to see. Realise that everything connects to everything else."
+<br />
+<i>Leonardo Da Vinci</i>
+
+"Metaphor is the bridge from the safety of the familiar to the excitement of the new."
+<br />
+<i>RJ Andrews</i>
+
+"Experience is a hard teacher because she gives the test first, the lesson afterward."
+<br />
+<i>Vernon Law</i>
+
+"It's amazing how many things are found while looking for something else."
+<br />
+<i>Anonymus</i>
+
+"At the end of the game, the king and the pawn go back in the same box."
+<br />
+<i>Italian Proverb</i>
+
+"To provoke a smile is almost always another smile."
+<br />
+<i>Anonymus</i>
 
 “The day the child realizes that all adults are imperfect, he becomes an adolescent; the day he forgives them, he becomes an adult; the day he forgives himself, he becomes wise.” 
 <br />
@@ -38,10 +61,18 @@ author_profile: true
 
 "If you want to go fast, go alone, if you want to go far, go together."
 <br/>
-<i>African proverb</i>
+<i>African Proverb</i>
 
 "Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better." 
 <br />
 <i>Samuel Beckett</i>
+
+"Hypochondria is the only illness I don't have."
+<br />
+<i>Anonymus</i>
+
+"Difficile non Ë sapere, ma saper far uso di quello che si sa."
+<i>Han Fei Tzu</i>
+
 
 ---
