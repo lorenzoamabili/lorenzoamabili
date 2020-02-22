@@ -7,6 +7,23 @@ author_profile: true
 
 <b> Reading is brain feeding. These are the books I have read recently. </b>
  
+ 
+<b>o 2020 </b>
+
+-<i> Data-Driven Storytelling</i>, by Edward Tufte
+<br />
+
+
+___________________________________________________________________________________________________________________________
+
+
+
+-<i> Ti con Zero</i>, by Italo Calvino
+<br />
+<br />
+<br />
+
+ 
 <b>o 2019 </b>
 
 -<i> Envisioning Information</i>, by Edward Tufte
@@ -21,7 +38,7 @@ author_profile: true
 -<i> Information Visualization: Perception for Design</i>, by Ware Colin
 <br />
 
--<i> Data-Driven Storytelling</i>, by  Nathalie Henry Riche, Christophe Hurter, Nicholas Diakopoulos, Sheelagh Carpendale
+-<i> Data-Driven Storytelling</i>, by Nathalie Henry Riche, Christophe Hurter, Nicholas Diakopoulos, Sheelagh Carpendale
 <br />
 
 
