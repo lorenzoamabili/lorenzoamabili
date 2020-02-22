@@ -7,7 +7,7 @@ author_profile: true
 
 <b> Reading is brain feeding. These are the books I have read recently. </b>
  
- 
+<br />
 <b>o 2020 </b>
 
 -<i> Data-Driven Storytelling</i>, by Edward Tufte
@@ -19,7 +19,6 @@ ________________________________________________________________________________
 
 
 -<i> Ti con Zero</i>, by Italo Calvino
-<br />
 <br />
 <br />
 
