@@ -10,7 +10,7 @@ author_profile: true
 <br />
 <b>o 2020 </b>
 
--<i> Data-Driven Storytelling</i>, by Edward Tufte
+-<i> Visual Explanations</i>, by Edward Tufte
 <br />
 
 
