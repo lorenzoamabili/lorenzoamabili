@@ -15,12 +15,12 @@ main:
     
   - title: "<i>FunArt</i>"
     url: /artworks/
-  
-  - title: "<i>Quotes</i>"
-    url: /quotes/
     
   - title: "<i>Flickr</i>"
     url: /flickr/
+    
+  - title: "<i>Other</i>"
+    url: /quotes/
     
   - title: "<b>Blog</b>"
     url: /blog/
