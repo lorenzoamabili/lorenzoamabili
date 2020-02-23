@@ -10,17 +10,17 @@ main:
   - title: "Projects"
     url: /projects/
     
-  - title: "<i>Readings</i>"
-    url: /readings/
-    
-  - title: "<i>FunArt</i>"
-    url: /artworks/
-    
   - title: "<i>Flickr</i>"
     url: /flickr/
     
-  - title: "<i>Other</i>"
+  - title: "<i>Readings</i>"
+    url: /readings/
+    
+  - title: "<i>Quotes</i>"
     url: /quotes/
+    
+  - title: "<i>Other</i>"
+    url: /artworks/
     
   - title: "<b>Blog</b>"
     url: /blog/
