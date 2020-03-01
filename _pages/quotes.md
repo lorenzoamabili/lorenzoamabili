@@ -21,7 +21,7 @@ author_profile: true
 
 "It's amazing how many things are found while looking for something else."
 <br />
-<i>Anonymus</i>
+<i>Anonymous</i>
 
 "At the end of the game, the king and the pawn go back in the same box."
 <br />
@@ -29,7 +29,7 @@ author_profile: true
 
 "To provoke a smile is almost always another smile."
 <br />
-<i>Anonymus</i>
+<i>Anonymous</i>
 
 “The day the child realizes that all adults are imperfect, he becomes an adolescent; the day he forgives them, he becomes an adult; the day he forgives himself, he becomes wise.” 
 <br />
@@ -53,11 +53,11 @@ author_profile: true
 
 "People Who Say It Cannot Be Done Should Not Interrupt Those Who Are Doing It."
 <br />
-<i>Anonymus</i>
+<i>Anonymous</i>
 
 "We need to change the way we feel — to learn how to feel proud instead of ashamed when we notice we might have been wrong about something, or to learn how to feel intrigued instead of defensive when we encounter some information that contradicts our beliefs."
 <br />
-<i>Anonymus</i>
+<i>Anonymous</i>
 
 "You can fool all the people some of the time and some of the people all the time, but you cannot fool all the people all the time."
 <br />
@@ -65,7 +65,7 @@ author_profile: true
 
 "It has been said that families who are closely attached may cut themselves off from the outside world. So it was with the Romanovs."
 <br />
-<i>Anonymus</i>
+<i>Anonymous</i>
 
 "Worry more about your conscience than your reputation. Because your conscience is what you are, your reputation is what others think of you. And what others think of you is their problem."
 <br />
@@ -93,7 +93,7 @@ author_profile: true
 
 "Hypochondria is the only illness I don't have."
 <br />
-<i>Anonymus</i>
+<i>Anonymous</i>
 
 "There are no facts, only interpretations."
 <br />
