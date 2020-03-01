@@ -36,5 +36,6 @@ Finally, I created a [blog](https://lorenzoamabili.github.io/blog). Check it, if
      alt="Hit Counter by Digits" border="0"  />
   </a>
 
+<a href="https://www.researchgate.net/profile/Lorenzo_Amabili2">Lorenzo Amabili on ResearchGate</a>
 
 ---
