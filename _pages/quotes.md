@@ -67,6 +67,14 @@ author_profile: true
 <br />
 <i>Anonymous</i>
 
+“When you like a flower, you just pluck it. But when you love a flower, you water it daily.”
+<br />
+<i>Gautama Buddha</i>
+
+“To do things right, you first need love, then technique.”
+<br />
+<i>Antoni Gaudí</i>
+
 "Worry more about your conscience than your reputation. Because your conscience is what you are, your reputation is what others think of you. And what others think of you is their problem."
 <br />
 <i>Charles Chaplin</i>
@@ -75,9 +83,9 @@ author_profile: true
 <br/>
 <i>African Proverb</i>
 
-"Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better." 
+"We shall not cease from exploration, and the end of all our exploring will be to arrive where we started and know the place for the first time."
 <br />
-<i>Samuel Beckett</i>
+<i>Thomas Stearns Elliot</i>
 
 "Of what I can be for me, not only can you not know anything, but not even myself."
 <br />
@@ -115,5 +123,16 @@ author_profile: true
 <br />
 <i>Margherita Hack</i>
 
+"E se caschi fai una capriola, un inchino, e poi ti rialzi."
+<br />
+<i>Anonymous</i>
+
+"Truth is always unbelievable."
+<br />
+<i>Museum of Contemporary Art in Barcelona</i>
+
+"I don't like women wearing fur. One never knows if someone is touching them for the love of them or of their fur."
+<br />
+<i>Anonymous</i>
 
 ---
