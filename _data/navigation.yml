@@ -16,11 +16,8 @@ main:
   - title: "<i>Readings</i>"
     url: /readings/
     
-  - title: "<i>Quotes</i>"
-    url: /quotes/
-    
   - title: "<i>Other</i>"
     url: /artworks/
     
-  - title: "<b>Blog</b>"
+  - title: "<b>Other other</b>"
     url: /blog/
