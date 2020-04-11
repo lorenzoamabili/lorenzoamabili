@@ -123,7 +123,7 @@ author_profile: true
 <br />
 <i>Margherita Hack</i>
 
-"E se caschi fai una capriola, un inchino, e poi ti rialzi."
+"E se caschi fai una capriola, un inchino, e ti rialzi."
 <br />
 <i>Anonymous</i>
 
@@ -134,5 +134,9 @@ author_profile: true
 "I don't like women wearing fur. One never knows if someone is touching them for the love of them or of their fur."
 <br />
 <i>Anonymous</i>
+
+"All animals are equal, but some animals are more equal than others."
+<br />
+<i>George Orwell</i>
 
 ---
