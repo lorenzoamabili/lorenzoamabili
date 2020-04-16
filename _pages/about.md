@@ -26,8 +26,6 @@ Have a look at my [publications](https://lorenzoamabili.github.io/publications/)
 
 I also love sports, [travelling, photography](https://www.flickr.com/people/148349088@N06/), [reading](https://lorenzoamabili.github.io/readings), [writing](https://medium.com/@lorenzoamabili) for [Nightingale](https://medium.com/nightingale), and [drawing/painting/sculpturing](https://lorenzoamabili.github.io/artworks).
 
-Finally, I created a [blog](https://lorenzoamabili.github.io/blog). Check it, if you have time!
-
 
 [This](https://lorenzoamabili.github.io/files/CV.pdf) is my resume.
 
