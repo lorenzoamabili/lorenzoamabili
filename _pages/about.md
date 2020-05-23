@@ -30,10 +30,4 @@ I also enjoy [writing](https://medium.com/@lorenzoamabili) for [Nightingale](htt
 
 [This](https://lorenzoamabili.github.io/files/CV.pdf) is my resume.
 
-<!-- hitwebcounter Code START -->
-<a href="https://www.hitwebcounter.com" target="_blank">
-<img src="https://hitwebcounter.com/counter/counter.php?page=7352144&style=0001&nbdigits=5&type=ip&initCount=1200" title="Web Counter" Alt="counter free"   border="0" >
-</a>                                    
-
-
 ---
