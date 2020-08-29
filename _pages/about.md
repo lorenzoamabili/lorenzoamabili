@@ -30,8 +30,5 @@ I also enjoy writing [for Nightingale](https://medium.com/@lorenzoamabili) and [
 
 [This](https://lorenzoamabili.github.io/files/CV.pdf) is my resume.
 
-
-<meta name=”description” content=”Hi! My name is Lorenzo Amabili and this is my personal webpage. My interests: Data Visualization, Visual Storytelling, HCI, Data Journalism, and Dataviz again.”>
-
 ---
 
