@@ -10,13 +10,23 @@ author_profile: true
 <br />
 <b>o 2020 </b>
 
+-<i> Understanding How We Learn - A Visual Guide</i>, by Yana Weinstein and Megan Sumeracki
+<br />
+
 -<i> Visual Explanations</i>, by Edward Tufte
 <br />
 
 
 ___________________________________________________________________________________________________________________________
 
+-<i> L'importanza di essere Onesto</i>, by Oscar Wilde
+<br />
 
+-<i> Il Dr. Jekyll e Mr. Hyde</i>, by Robert Louis Stevenson
+<br />
+
+-<i> Novecento</i>, by Alessandro Baricco
+<br />
 
 -<i> Ti con Zero</i>, by Italo Calvino
 <br />
