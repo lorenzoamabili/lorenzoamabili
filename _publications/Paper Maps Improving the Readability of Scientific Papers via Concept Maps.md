@@ -1,5 +1,6 @@
 ---
 title: "Paper Maps: Improving the Readability of Scientific Papers via Concept Maps"
+thumb: /images/papermap.pdf
 date: 2021-09-29
 venue: 'VISComm 2021'
 ---
