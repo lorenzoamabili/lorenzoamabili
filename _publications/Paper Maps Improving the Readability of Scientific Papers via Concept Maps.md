@@ -1,7 +1,7 @@
 ---
 title: "Paper Maps: Improving the Readability of Scientific Papers via Concept Maps"
-date: 2021-09-29
 thumb: /images/papermap.pdf
+date: 2021-09-29
 venue: 'VISComm 2021'
 ---
 ![](https://lorenzoamabili.github.io/images/papermap.pdf "papermap")
