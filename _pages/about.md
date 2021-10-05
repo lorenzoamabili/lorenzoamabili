@@ -28,7 +28,7 @@ I love [travelling, photography](https://www.flickr.com/people/148349088@N06/), 
 I also enjoy writing [for Nightingale](https://medium.com/@lorenzoamabili) and [for fun](https://lorenzoamabili.github.io/blog).
 
 
-[This](https://lorenzoamabili.github.io/files/Resume - Lorenzo Amabili.pdf) is my resume.
+[This](https://lorenzoamabili.github.io/files/CV.pdf) is my resume.
 
 ---
 
