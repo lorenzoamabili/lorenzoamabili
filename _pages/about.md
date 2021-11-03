@@ -18,7 +18,7 @@ Hi, I am PhD student in Computer Science working on [Visual Storytelling of Big 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://lorenzoamabili.github.io/images/rug2.png "rug") 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](https://lorenzoamabili.github.io/images/proj2.png "proj")
 
-Have a look at my [publications](https://lorenzoamabili.github.io/publications/), [projects](https://lorenzoamabili.github.io/projects/), [teaching activities](https://lorenzoamabili.github.io/teaching/), and my <a href="https://www.researchgate.net/profile/Lorenzo_Amabili2">ResearchGate</a> account!
+Have a look at my [publications](https://lorenzoamabili.github.io/publications/), [projects](https://lorenzoamabili.github.io/projects/), [teaching activities](https://lorenzoamabili.github.io/teaching/), and <a href="https://www.researchgate.net/profile/Lorenzo_Amabili2">ResearchGate</a> account!
 
 [![](https://lorenzoamabili.github.io/images/nldr2.png "nldr")](https://lorenzoamabili.github.io/NLDRviz.github.io/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![](https://lorenzoamabili.github.io/images/grouping2.png)](https://www.youtube.com/watch?v=H8ZBaRVyGFo)
