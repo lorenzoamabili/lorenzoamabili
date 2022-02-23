@@ -12,7 +12,7 @@ output:
        in_header: clicky.html
 ---
 
-Hi, I am PhD student in Computer Science working on [Visual Storytelling of Big Imaging Data](https://lorenzoamabili.github.io/projects/VSBID), in the [Scientific Visualization and Computer Graphics group](http://www.cs.rug.nl/svcg/Main/People) led by [Jos Roerdink](http://www.cs.rug.nl/svcg/People/JosRoerdink) at the University of Groningen.
+Hi, I am PhD student in Computer Science working on [Visual Storytelling of Big Imaging Data](https://lorenzoamabili.github.io/projects/VSBID), in the [Scientific Visualization and Computer Graphics group](http://www.cs.rug.nl/svcg/Main/People) led by [Jiri Kosinka](https://www.cs.rug.nl/svcg/People/JiriKosinka) at the University of Groningen.
 
 ![](https://lorenzoamabili.github.io/images/groningen2.png "gro")
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://lorenzoamabili.github.io/images/rug2.png "rug") 
